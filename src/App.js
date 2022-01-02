@@ -1,6 +1,8 @@
+import AppRoutes from './routes'
+
 function App() {
   return (
-    <h1> Lethe</h1>
+    <AppRoutes />
   );
 }
 
