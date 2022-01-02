@@ -13,3 +13,5 @@ que são utilizados por padrão em projetos React básicos
 * Base do Create React App
 * React Router
 * Axios
+* Standard Code Formmater
+* BulmaCSS
